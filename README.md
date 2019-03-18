@@ -8,6 +8,10 @@ Open your mind, be silly!
 *Frases include insider jokes for coders and Codaisseur - the educational program we made this app for.
 
 ## [See the deployed version](https://drawbsurd.netlify.com)
+
+### Check out the back-end repo [here](https://github.com/LeoniePeters/Drawbsurd-game-server)
+
+## How it looks:  
 ![game view](Drawbsurd-game-view.gif)
 
 ## Jump to:  
