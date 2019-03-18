@@ -5,21 +5,24 @@ Enter a new game, the first player's turn is to make a drawing that gives expres
 The other players can guess what is being drawn. These guesses are displayed to the first player.
 Open your mind, be silly!
 
-*Frases include insider jokes for coders and Codaisseurs - the educational program we made this app for.
+*Frases include insider jokes for coders and Codaisseur - the educational program we made this app for.
 
 ## [See the deployed version](https://drawbsurd.netlify.com)
+![game view](Drawbsurd-game-view.gif)
 
-Jump to:
-[Used Technologies](#used-technologies)
-[Goals for this project](#goals-for-this-project)
+## Jump to:  
+**[Used Technologies](#used-technologies)  
+[Goals for this project](#goals-for-this-project)  
+[User Stories](#user-stories)  
+[Git workflow](#git-workflow)  
+[Agile workflow and trello board](#agile-workflow-and-trello-board)**
 
 ## Used Technologies:
 
 #### Click links to view some samples in this project 👇
 - **[react](./src/components/games/GameDetails.js)**  
 - **[redux](./src/reducers/games.js)**  
-- **[redux-thunk](./src/actions/games.js)**  
-- react-canvas-draw
+- **[react-canvas-draw](./src/components/games/CanvasToDraw.js)**
 
 
 ## Goals for this project
@@ -56,7 +59,3 @@ We created a Trello board with the lists:
 - Today's goals
 - To do
 - Done
-
-## create-react-app-docs
-
-
